@@ -1,4 +1,4 @@
-module github.com/username/grpc-pokemon
+module github.com/mavz49/ping/ping
 
 go 1.19
 
